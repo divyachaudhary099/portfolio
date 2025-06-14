@@ -180,7 +180,7 @@ const workExperiences = {
     {
       role: "Trainee QA Engineer",
       company: "The Indian Express",
-      companylogo: require("./assets/images/indianexpress.jpg"),
+      companylogo: require("./assets/images/indianexpress.png"),
       date: "November 2024 – Present",
       desc: "🐞 Trainee QA Engineer | Proudly recognized as “Bug Hunter” and awarded Employee of the Month (March) for breaking things before users could! 🚀",
       descBullets: [
@@ -267,7 +267,7 @@ const achievementSection = {
       title: "Employee of the Month - March 2025",
       subtitle:
         "I got employee of the month as a trainee in the month of march within 4 months of joining this organization because of my exceptional observational skills and was given the title Bug hunter. Also, I introduced Gen AI testcases in my team.",
-      image: require("./assets/images/indianexpress.jpg"),
+      image: require("./assets/images/indianexpress.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
